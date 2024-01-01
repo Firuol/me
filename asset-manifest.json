@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/new-fully-responsive-portifolio/static/css/main.c1152242.css",
+    "main.js": "/new-fully-responsive-portifolio/static/js/main.70195456.js",
+    "static/media/avatar4.jpg": "/new-fully-responsive-portifolio/static/media/avatar4.8132e09714a020f5ab6a.jpg",
+    "static/media/project2.jpg": "/new-fully-responsive-portifolio/static/media/project2.61edd2b10a37333cfa6a.jpg",
+    "static/media/project4.jpg": "/new-fully-responsive-portifolio/static/media/project4.16bd615392460193eea7.jpg",
+    "static/media/project3.jpg": "/new-fully-responsive-portifolio/static/media/project3.4c51c730c5f6ea5dbf75.jpg",
+    "static/media/project6.jpg": "/new-fully-responsive-portifolio/static/media/project6.4e8ab78eb40a0f03bc88.jpg",
+    "static/media/project1.jpg": "/new-fully-responsive-portifolio/static/media/project1.3101a1697f2a73b4e6e5.jpg",
+    "static/media/header.jpg": "/new-fully-responsive-portifolio/static/media/header.864401f2c7ae325113d6.jpg",
+    "static/media/project5.jpg": "/new-fully-responsive-portifolio/static/media/project5.fdd0c6a0d639a9c75455.jpg",
+    "static/media/logo5.jpg": "/new-fully-responsive-portifolio/static/media/logo5.d2107ccc9e6f8a1b01ac.jpg",
+    "static/media/avatar7.jpg": "/new-fully-responsive-portifolio/static/media/avatar7.11f5b9086c9432d8eb34.jpg",
+    "static/media/cv.pdf": "/new-fully-responsive-portifolio/static/media/cv.0104ff869edf87682f55.pdf",
+    "static/media/avatar5.jpg": "/new-fully-responsive-portifolio/static/media/avatar5.ad0c4960e6bd37435d80.jpg",
+    "static/media/avatar6.jpg": "/new-fully-responsive-portifolio/static/media/avatar6.df2bbd4645d861849ba3.jpg",
+    "static/media/about.jpg": "/new-fully-responsive-portifolio/static/media/about.636f142b9f8126935da3.jpg",
+    "static/media/logo2.jpg": "/new-fully-responsive-portifolio/static/media/logo2.9a3c4477e409239754c1.jpg",
+    "static/media/logo3.jpg": "/new-fully-responsive-portifolio/static/media/logo3.f78b3d58e17c2740db55.jpg",
+    "static/media/logo4.jpg": "/new-fully-responsive-portifolio/static/media/logo4.def382a3d6a22ea780fb.jpg",
+    "static/media/logo1.jpg": "/new-fully-responsive-portifolio/static/media/logo1.ac390ee4083399561301.jpg",
+    "index.html": "/new-fully-responsive-portifolio/index.html",
+    "main.c1152242.css.map": "/new-fully-responsive-portifolio/static/css/main.c1152242.css.map",
+    "main.70195456.js.map": "/new-fully-responsive-portifolio/static/js/main.70195456.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1152242.css",
+    "static/js/main.70195456.js"
+  ]
+}
