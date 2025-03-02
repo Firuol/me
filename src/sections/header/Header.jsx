@@ -7,11 +7,11 @@ const Header = () => {
     <header id="header">
       <div className="container header__container">
         <div className="header__profile">
-          <img src={HeaderImage} alt="Header Portait" />
+          <img style={{ height: '100%' }} src={HeaderImage} alt="Header Portait" />
         </div>
         <h3>Firaol Tesfaye</h3>
         <p>
-        You are a click away from building your dream website or web app. Send me the details of your project for a modern, mobile responsive!
+          You are a click away from building your dream website or web app. Send me the details of your project for a modern, mobile responsive!
         </p>
         <div className="header__cta">
           <a href="#contact" className='btn primary'>Let's Talk</a>
