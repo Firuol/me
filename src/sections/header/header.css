@@ -21,7 +21,9 @@ header {
     overflow: hidden;
     margin-bottom: 1.5rem;
 }
-
+.header__profile img{
+    height: 100%;
+}
 .header__container p {
     width: 35rem;
     text-align: center;
